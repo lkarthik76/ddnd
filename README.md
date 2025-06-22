@@ -66,6 +66,7 @@ AWS Backend ☁️
 ```http
 GET /getRisk?short_user_id=1234567890
 Host: https://x3lurwrtk3.execute-api.us-east-1.amazonaws.com/prod
-
-## 🧠 Architecture
+```
+### 🙌 Built For
+This project was built for the AWS Presents: Breaking Barriers Virtual Challenge on Devpost, aiming to make roads safer with accessible, wearable, AI-powered technology
 
