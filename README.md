@@ -22,7 +22,7 @@ It then:
 ---
 ## 🧠 Architecture
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](arch.png)
 
 Apple Watch ⌚
 ↳ Collects health data via HealthKit
